@@ -11,7 +11,7 @@ public class HelloWorldApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World!"); // Display the string.
+        System.out.println("H e l l o   W o r l d !"); // Display the string.
     }
 
 }
